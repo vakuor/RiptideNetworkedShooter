@@ -6,7 +6,11 @@
 
 This repository contains files with a simple network layer implementation based on the RiptidierNetworking library.
 
+This is NOT a production ready solution. It is just my try to make network work on me.
+
 You can build it on your own or just download [builds for Windows](https://drive.google.com/file/d/121ThjxXKSX_KtnErq6LBfZROgr24_rhH/view?usp=sharing).
+
+Launch one server instance and countless number of clients (beware of bugs).
 
 Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
