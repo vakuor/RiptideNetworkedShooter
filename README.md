@@ -8,13 +8,11 @@ This repository contains files with a simple network layer implementation based 
 
 This is NOT a production ready solution. It is just my try to make network work on me.
 
-You can build it on your own or just download [builds for Windows](https://drive.google.com/file/d/121ThjxXKSX_KtnErq6LBfZROgr24_rhH/view?usp=sharing).
+You can build it on your own or just download [builds for Windows](https://github.com/vakuor/RiptideNetworkedShooter/releases/tag/v0.1).
 
 Launch one server instance and countless number of clients (beware of bugs).
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
+## Launch
 
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
