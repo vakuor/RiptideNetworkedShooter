@@ -1,10 +1,12 @@
-# MobileShooterClient
+# RiptideNetworkedShooter
 
 
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+This repository contains files with a simple network layer implementation based on the RiptidierNetworking library.
+
+You can build it on your own or just download [builds for Windows](https://drive.google.com/file/d/121ThjxXKSX_KtnErq6LBfZROgr24_rhH/view?usp=sharing).
 
 Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
