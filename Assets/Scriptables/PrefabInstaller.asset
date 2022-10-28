@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befa1ca70ff6a1a4d862a7831cfc8811, type: 3}
+  m_Name: PrefabInstaller
+  m_EditorClassIdentifier: 
+  _mainUiCanvasPrefab: {fileID: -4557754636081367853, guid: cd812140644d42249adda9c58d11dd2a, type: 3}
+  _loadingScreenPrefab: {fileID: 4173164833423636417, guid: 4c4b935110a7761488d948113e48d949, type: 3}
+  _mainMenuScreen: {fileID: 3448747643725807905, guid: 07a6f80225afde74d8be4296eb998e07, type: 3}
+  _serverScreen: {fileID: 8588921923448935506, guid: 414a8b693262dd14caf0198e16ce635d, type: 3}
+  _clientGameScreen: {fileID: 6560426430450533795, guid: 396177ddd6d9cb1408f78cf1b947990c, type: 3}
+  _playerMotor: {fileID: 6982936121084798365, guid: 61c51b9b59e009d488522ebbf80bfe34, type: 3}
+  _bulletMotor: {fileID: 5800202936298766896, guid: 66962c08943cca84a924ac4edee1590c, type: 3}
